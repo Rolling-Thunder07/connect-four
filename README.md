@@ -1,14 +1,12 @@
 <h1 align="center"> 🎉 Connect Four - The Ultimate Battle of Circles! 🔴🟡 </h1>
 
-Welcome to the most **addictive**, **colorful**, and **circle-tastic** Connect Four game you've ever played! 🎮🕹️
-
----
+<br>
 
 ## 🕹️ What is this?
 
 It’s a simple game where you and your buddy (or your cat, no judgment) take turns dropping discs into a grid. The first to connect four discs in a row — horizontally, vertically, or diagonally — WINS! 🏆
 
----
+<br>
 
 ## 🚀 Features
 
@@ -19,7 +17,7 @@ It’s a simple game where you and your buddy (or your cat, no judgment) take tu
 - Responsive design — plays nice on phones, tablets, and even your smart fridge! 📱🧊  
 - No batteries required! (But maybe some coffee ☕️)  
 
----
+<br>
 
 ## 🎨 Colors & Style
 
@@ -27,7 +25,7 @@ It’s a simple game where you and your buddy (or your cat, no judgment) take tu
 - Yellow discs shining bright like your future victories! 🌟  
 - Smooth hover effects that make you feel like a pro gamer.  
 
----
+<br>
 
 ## 🕹️ How to Play?
 
@@ -36,38 +34,38 @@ It’s a simple game where you and your buddy (or your cat, no judgment) take tu
 3. Try to connect four discs in a row — but watch out, your opponent is plotting! 😈  
 4. Celebrate your win or plot your revenge for the next round! 🎉  
 
----
+<br>
 
 ## 🛠️ How to Run Locally
 
 1. Clone this repo:  
-git clone https://github.com/Rolling-Thunder07/connect-four.git
+<pre> git clone https://github.com/Rolling-Thunder07/connect-four.git </pre>
 
 2. Open `index.html` in your favorite browser (Chrome, Firefox, or your secret gaming browser).  
 3. Click **Play Game** and let the madness begin!  
 
----
+<br>
 
 ## 🤔 Why Connect Four?
 
 Because sometimes you just need to connect four circles and feel like a champion. Also, it’s a great excuse to procrastinate. 😜
 
----
+<br>
 
 ## 🙌 Contributions
 
 Feel free to submit pull requests, open issues, or send carrier pigeons with your ideas. Just keep it fun and circle-friendly! 🕊️🔴🟡
 
----
+<br>
 
 ## 🐱 Disclaimer
 
 No cats were harmed in the making of this game, but your productivity might suffer. Play responsibly! 😹
 
----
+<br>
 
 ## 🎉 Have fun and may the best circle win! 🔴🟡
 
----
+<br>
 
 *Made with ❤️ and a lot of circles by [Rolling-Thunder07](https://github.com/Rolling-Thunder07).*
