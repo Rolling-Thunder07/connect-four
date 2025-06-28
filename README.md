@@ -1,4 +1,4 @@
-<h1 align="center"> 🎉 Connect Four - The Ultimate Battle of Circles! 🔴🟡 </h1>
+<h1 align="center"> 🎉 Connect Four - 🔴🟡 </h1>
 
 <br>
 
